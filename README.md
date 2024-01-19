@@ -2,6 +2,9 @@
 
 - Create a basic structure of the app usig the CRA
 - Configured TailwindCSS
+- Header
+- configure react router dom
+- Login Form
 
 # Features
 

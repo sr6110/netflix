@@ -1,11 +1,8 @@
-
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="bg-slate-600 text-3xl">
-      Hi
-    </div>
+    <Body />
   );
 }
 
